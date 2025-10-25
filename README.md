@@ -6,7 +6,7 @@ ShellBot is a ShellShockers.io bot built using the YolkBot framework.
 --------------------------------------------------------------
 
 🚀 Installation Guide
-
+Not completly tested, if this does not work, I am working on simpler install.
 1. Download the files from this repo and save them somewhere (e.g., Desktop).
 
 2. Open index.js in a text editor (Notepad, VS Code, or Notepad++).

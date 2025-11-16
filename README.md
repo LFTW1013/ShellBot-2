@@ -36,7 +36,7 @@ ________________________________________________
 
 Shellbot supports Bun only right now. 
 
-    bun add -g shellbot-2@1.0.2
+    bun add -g shellbot-2@0.1.3
 _______________________________________________
 
 3. - Use ShellBot 2!
@@ -51,5 +51,5 @@ or
     bun shellbot
 ______________________
 
-Simply type in your game code, select weapon with weapon IDs, (will be applied after first death) and watch ShellBot kill!
+Simply type in your game code, select weapon with weapon IDs, (will be applied after first death) and watch ShellBot kill! There could be some glitches, it is only in beta. 
 

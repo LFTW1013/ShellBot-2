@@ -10,3 +10,46 @@ INSTRUCTIONS:
 
 1. - Install bun if not already:
 
+Mac/Linux:
+
+    curl -fsSL https://bun.com/install | bash
+________________________________________________
+
+Windows:
+
+    powershell -c "irm bun.sh/install.ps1|iex"
+________________________________________________
+
+Or with package managers:
+
+NPM:
+
+    npm install -g bun 
+________________________________________________
+
+Brew:
+
+    brew install oven-sh/bun/bun
+________________________________________________
+
+2. - Install ShellBot-2
+
+Shellbot supports Bun only right now. 
+
+    bun add -g shellbot-2@1.0.2
+_______________________________________________
+
+3. - Use ShellBot 2!
+
+To run shellbot, open terminal and type:
+
+    shellbot
+_____________
+
+or
+  
+    bun shellbot
+______________________
+
+Simply type in your game code, select weapon with weapon IDs, (will be applied after first death) and watch ShellBot kill!
+

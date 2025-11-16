@@ -1,0 +1,11 @@
+{
+  "name": "shellbot-2",
+  "version": "1.0.2",
+  "type": "module",
+  "bin": {
+    "shellbot": "./cli.js"
+  },
+  "dependencies": {
+    "yolkbot": "^1.4.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "yolkbot": "^1.4.2",
+      },
+    },
+  },
+  "packages": {
+    "wwws": ["wwws@1.0.7", "", {}, "sha512-QxeSGRej6FJPp4lVGMxCkJ4FtEXRITVaamU7UA7M2b12lt0XLrMav69eUs3hYJwPI1ZYeau8ea2kwI97oOghiA=="],
+
+    "yolkbot": ["yolkbot@1.4.2", "", { "dependencies": { "wwws": "^1.0.7" } }, "sha512-PIPs0+QaGu0eKrFPCuPM8eGKTmng3I6HFLwjvvFa5UjTTAO3TbkG48fGCbc/g2Fel/p56cKC3ETDxPwAuJlq5w=="],
+  }
+}
